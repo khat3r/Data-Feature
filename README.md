@@ -36,4 +36,4 @@ You'll need two API keys for this project:
     - **Step 3**: Navigate to your dashboard and copy your API key.
 
 - **Cloning the repository**
-- git clone https://github.com/nayalafifi/data-feature.git
+- git clone https://github.com/khat3r/Data-Feature.git
